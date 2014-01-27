@@ -1,6 +1,6 @@
 PHP Mcrypt / Libmcrypt Dependency for windows
 =============================
-## Instalation
+## How to Compile PHP with Mcrypt:
 
  - Download PHP source code from http://windows.php.net/download/
  - Follow install instruction on https://wiki.php.net/internals/windows/stepbystepbuild
@@ -9,5 +9,10 @@ PHP Mcrypt / Libmcrypt Dependency for windows
  - copy **bin\libmcrypt.dll** to the root location whre PHP compiled
  - Done.
  
+#### Tested with PHP 5.5.8 VC9
+
+
+----------
+
 
 find me on [Check Pagerank](http://www.prpagerank.com)
